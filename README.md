@@ -1,0 +1,2 @@
+# napperbot
+Discord Bot (NapperBot)
