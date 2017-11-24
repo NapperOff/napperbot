@@ -20,7 +20,7 @@ bot.on('ready', () =>{
     console.log("Bot en ligne !");
 });
 
-bot.login('Mzc4ODA0NDA0OTMwNzQwMjM1.DPQlIw.51jKQB7SdOHatqH2Q9-nsld46LM');
+bot.login(process.env.TOKEN);
 
         //----------------------------------------- COMMANDE PING  -----------------------------------------\\
 
